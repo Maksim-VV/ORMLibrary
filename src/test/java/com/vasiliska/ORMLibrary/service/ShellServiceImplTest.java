@@ -31,7 +31,7 @@ public class ShellServiceImplTest {
     private final String TEST_BOOK_NAME = "Айвенго";
     private final String TEST_AUTHOR = "В.Скотт";
     private final String TEST_GENRE = "Роман";
-    private final String TEST_COMMENT = "Лучше книги нет!";
+    private final String TEST_COMMENT = "Книга супер!";
 
     @Test
     public void addNewBook() {
